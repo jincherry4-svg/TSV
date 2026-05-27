@@ -3,6 +3,9 @@
 
 這是一個基於 Windows Forms (C#) 開發的桌面應用程式，主要功能是讀取結構化的 TSV（Tab-Separated Values）或 TXT 檔案，將內含的單字、音標、發音路徑與解釋進行解析，並優雅地顯示於介面的清單中。
 
+<img width="1473" height="597" alt="image" src="https://github.com/user-attachments/assets/933da94e-9c57-474d-9acf-9fd51068b96f" />
+
+
 ---
 
 ## 🚀 功能特點
