@@ -1,4 +1,4 @@
-# TSV
+
 # TSV 單字檔案載入與檢視工具 (TSV Word Viewer)
 
 這是一個基於 Windows Forms (C#) 開發的桌面應用程式，主要功能是讀取結構化的 TSV（Tab-Separated Values）或 TXT 檔案，將內含的單字、音標、發音路徑與解釋進行解析，並優雅地顯示於介面的清單中。
